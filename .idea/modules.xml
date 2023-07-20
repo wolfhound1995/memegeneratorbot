@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chartgenerator/.idea/chartgenerator.iml" filepath="$PROJECT_DIR$/../chartgenerator/.idea/chartgenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/memegenerator.iml" filepath="$PROJECT_DIR$/.idea/memegenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mobile/.idea/mobile.iml" filepath="$PROJECT_DIR$/../mobile/.idea/mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dalle/.idea/pythonProject1.iml" filepath="$PROJECT_DIR$/../dalle/.idea/pythonProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../support/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/../support/.idea/pythonProject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../goroskop/.idea/pythonProject3.iml" filepath="$PROJECT_DIR$/../goroskop/.idea/pythonProject3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yesorno/.idea/pythonProject4.iml" filepath="$PROJECT_DIR$/../yesorno/.idea/pythonProject4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../email/.idea/pythonProject5.iml" filepath="$PROJECT_DIR$/../email/.idea/pythonProject5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../currencyrate/.idea/pythonProject6.iml" filepath="$PROJECT_DIR$/../currencyrate/.idea/pythonProject6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qrgen/.idea/qrgen.iml" filepath="$PROJECT_DIR$/../qrgen/.idea/qrgen.iml" />
+    </modules>
+  </component>
+</project>
